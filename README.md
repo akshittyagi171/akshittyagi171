@@ -6,29 +6,32 @@ tyagiakshit171@gmail.com | [GitHub](https://github.com/akshittyagi171) | [Linked
 
 ## Professional Summary
 
-Certified Java Professional with expertise in core and advanced Java, Oracle, and Spring Boot. Proven communicator committed to surpassing project goals and client expectations. Successfully orchestrated projects like Café Automation Platform, leveraging Core Java, SQL, Spring Boot, Hibernate microservices, and Java frameworks. Enhanced efficiency and elevated customer experiences, driving a 30% conversion rate increase. Ready to deliver impactful solutions for your organization's success.
+Certified Java Professional with expertise in core and advanced Java, Oracle, Spring Boot, Microservices. Proven communicator committed to surpassing project goals and client expectations. Enhanced efficiency and elevated customer experiences, driving a 30% conversion rate increase. Ready to deliver impactful solutions for your organization's success.
 
 ## Skills
 
-- **Core Java:** Strong grasp of object-oriented programming, Data structures, and algorithms.
-- **Advanced Java:** Exception handling, Multithreading, Collections, Serialization, JDBC, Servlet, JSP.
-- **Java Frameworks and Library:** JavaFX, ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png), Hibernate.
-- **Developer Tools and Software:** Maven, Apache Tomcat Server.
-- **Database:** SQL, PL/SQL, PostgreSQL, MS SQL Server, Oracle, MySQL.
-- **Web Development:** HTML, CSS, Bootstrap, JavaScript, React.
-- **Agile Methodology:** Scrum, Jira, Agile development.
-- **Version Control:** GIT.
-- **Testing & Debugging:** Unit testing, debugging, code quality.
-- **Problem Solving:** Strong analytical skills.
-- **Communication:** Effective collaboration and communication.
-- **Continuous Learning:** Stay updated with emerging technologies.
+## Skills
+ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+
+- **Java Frameworks and Library:** JavaFX, ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png), Hibernate. ![JavaFX](https://img.icons8.com/color/48/000000/java-eclipse.png) ![Hibernate](https://img.icons8.com/ios/50/000000/hibernate.png)
+
+- **Developer Tools and Software:** Maven, Apache Tomcat Server. ![Maven](https://img.icons8.com/ios-filled/50/000000/maven.png) ![Apache Tomcat](https://img.icons8.com/windows/48/000000/tomcat.png)
+
+- **Database:** SQL, PL/SQL, PostgreSQL, MS SQL Server, Oracle, MySQL. ![Database](https://img.icons8.com/nolan/50/database.png)
+
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript, React. ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/nolan/50/react-native.png)
+
+- **Agile Methodology:** Scrum, Jira, Agile development. ![Scrum](https://img.icons8.com/color/48/000000/scrum.png) ![Jira](https://img.icons8.com/color/48/000000/jira.png)
+
+- **Version Control:** GIT. ![Git](https://img.icons8.com/color/48/000000/git.png)
+
 
 ## Accomplishments
 
 - Achieved qualification in the prestigious Graduate Aptitude Test in Engineering (GATE).
 - Proven problem-solving prowess with over 500+ coding challenges on platforms like LeetCode, GeekForGeeks, and CodeChef.
 - Contributed to the success of the Smart India Hackathon, showcasing strategic planning and collaborative problem-solving.
-- Authored a research paper on TL-DCA in Smart Cities, achieving a 30% efficiency boost and 20% security threat reduction.
+- Authored a research publication on TL-DCA in Smart Cities, achieving a 30% efficiency boost and 20% security threat reduction.
 
 ## Education
 
